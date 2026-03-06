@@ -2,9 +2,9 @@ const CACHE_NAME = 'home-food-v1';
 const ASSETS = [
     '/',
     '/index.html',
-    '/manifest.webmanifest',
-    '/app_icon_192.png',
-    '/app_icon_512.png'
+    '/mobile-app/manifest.webmanifest',
+    '/mobile-app/app_icon_192.png',
+    '/mobile-app/app_icon_512.png'
 ];
 
 self.addEventListener('install', (event) => {

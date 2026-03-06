@@ -1,0 +1,24 @@
+{
+    "name": "Home Food - Authentic Taste",
+    "short_name": "Home Food",
+    "description": "Authentic home-cooked food delivered to your doorstep.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ff4d4d",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/app_icon_192.png",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/app_icon_512.png",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ]
+}
